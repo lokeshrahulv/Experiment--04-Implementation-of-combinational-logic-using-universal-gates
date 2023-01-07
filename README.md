@@ -87,7 +87,7 @@ endmodule
 ![Screenshot_20230107_103225](https://user-images.githubusercontent.com/118423842/211162233-7fd66700-894b-4858-9bb4-ccc1b0f449c3.png)
 
 
-NOR Operation:
+## NOR Operation:
 
 ## RTL
 ![Screenshot_20230107_103235](https://user-images.githubusercontent.com/118423842/211162257-32e20c88-d1ca-444b-868d-dad9dbf755c2.png)
