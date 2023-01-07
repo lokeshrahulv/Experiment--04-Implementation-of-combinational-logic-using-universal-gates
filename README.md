@@ -89,10 +89,10 @@ endmodule
 
 ## NOR Operation:
 
-## RTL
+## RTL:
 ![Screenshot_20230107_103235](https://user-images.githubusercontent.com/118423842/211162257-32e20c88-d1ca-444b-868d-dad9dbf755c2.png)
 
-## Timing Diagram
+## Timing Diagram:
 ![Screenshot_20230107_103244](https://user-images.githubusercontent.com/118423842/211162269-75a4ce61-f22e-4a9e-ac44-f9b85f775334.png)
 
 ## Truthtable:
